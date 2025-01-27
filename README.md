@@ -1,3 +1,5 @@
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/30f6059b-1960-42c7-8238-012b71d9c74e" />
+
 # Simple Calculator Web App
 This is a basic calculator web application written in JavaScript that supports basic arithmetic operations: addition, subtraction, multiplication, and division. The app is designed to provide an intuitive and interactive interface for performing calculations.
 
